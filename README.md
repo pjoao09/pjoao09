@@ -1,6 +1,6 @@
 ## ✨ Olá! Bem vindos ao meu perfil! ✨
 
-Meu nome é João, estudante do ensino médio, eu ouço músicas enquanto desenho e sempre gostei de desenhar personagens exóticos no meu tempo livre.
+Meu nome é João, estudante do ensino médio, eu ouço músicas enquanto desenho e sempre gostei de desenhar personagens no meu tempo livre.
 - Estou estudando na [Alura](https://www.Alura.com.br)
 - Utilizo esse espaço para organizar os meus projetos desenvolvidos da plataforma.
 - Estou me desenvolvendo na linguagem JavaScript
